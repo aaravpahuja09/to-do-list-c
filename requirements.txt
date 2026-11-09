@@ -1,0 +1,2 @@
+- A standard C compiler (GCC, Clang, or MSVC)
+- Standard C libraries (<stdio.h>, <string.h>)
